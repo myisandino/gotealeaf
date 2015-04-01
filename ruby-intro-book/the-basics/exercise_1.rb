@@ -1,1 +1,0 @@
-puts 'Miguel ' + 'Yi Sandino'
