@@ -1,6 +1,6 @@
-# Write a method that takes a string as argument.
-# The method should return the all-caps version of the string,
-# only if the string is longer than 10 characters.
+# Rewrite your program from exercise 3 using a case
+# statement. Wrap each statement in a method and
+# make sure they both still work.
 
 def evaluate_number(number)
   if number < 0

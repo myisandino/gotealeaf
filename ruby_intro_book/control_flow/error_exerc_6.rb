@@ -1,6 +1,5 @@
-# Write a method that takes a string as argument.
-# The method should return the all-caps version of the string,
-# only if the string is longer than 10 characters.
+# When you run the following code...You get the following error message..
+# Why do you get this error and how can you fix it?
 
 def equal_to_four(x)
   if x == 4

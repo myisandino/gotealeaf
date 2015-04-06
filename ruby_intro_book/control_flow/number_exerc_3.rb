@@ -1,6 +1,6 @@
-# Write a method that takes a string as argument.
-# The method should return the all-caps version of the string,
-# only if the string is longer than 10 characters.
+# Write a program that takes a number from the user
+# between 0 and 100 and reports back whether the
+# number is between 0 and 50, 50 and 100, or above 100.
 
 puts "Please enter a number between 0 and 100"
 number = gets.chomp.to_i
