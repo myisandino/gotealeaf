@@ -21,4 +21,4 @@ end
 result = fib(0, 1, limit)
 puts "result is #{result}"
 
-# we had to pass limit as an argument.
+# I had to pass limit as an argument.
